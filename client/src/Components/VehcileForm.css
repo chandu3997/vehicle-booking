@@ -1,0 +1,222 @@
+.vechicle_form_Identify_yourself .col-md-6 .card {
+    background-color: #faede2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 60px 30px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+
+  .card {
+    background-color: #faede2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 60px 30px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .vechicle_form_Identify_yourself .col-md-6 .card input {
+    padding: 21px;
+    color: #b9b9b9;
+    font-size: 13px;
+    border: none;
+  }
+
+  .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #ff9202;
+  }
+  
+.MuiStepper-root.MuiStepper-horizontal.container.d-flex.css-m5vj9m-MuiStepper-root {
+  margin-top: 90px;
+  flex-wrap: wrap;
+  /* justify-content: space-between;   */
+}
+
+
+
+.MuiStepConnector-root.MuiStepConnector-horizontal.Mui-disabled.css-j5w0w9-MuiStepConnector-root {
+  display: none;
+}
+
+.MuiStep-root.MuiStep-horizontal.flex-wrap.css-1bw0nnu-MuiStep-root {
+  margin-top: 10px;
+  margin-left: 40px;
+  /* justify-content: center; */
+}
+
+
+  
+  
+  .vechicle_form_Identify_yourself .col-md-6 .card input::placeholder {
+    color: #b9b9b9 !important;
+    font-size: 13px;
+  }
+  
+  .vechicle_form_Identify_yourself .col-md-6 .card p {
+    color: #e8a368;
+    font-size: 10px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+  }
+  .vechicle_form_Identify_yourself .col-md-6 .card h6 {
+    font-size: 12px;
+    color: black;
+    font-weight: 400;
+  }
+
+
+  
+  .vechicle_form {
+    padding: 20px;
+  }
+  .vechicle_form_Identify_yourself_nextbtn {
+    background-color: #f18121 !important;
+    color: #fff !important;
+    padding: 7px 30px !important;
+    border: none;
+    font-size: small;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+  
+  .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+    color: #f18121 !important;
+  }
+  .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: #f18121 !important;
+  }
+  
+  .vechicle_form_profile_checkbox_label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .vechicle_form_profile_checkbox_input {
+    margin-right: 3px;
+  }
+  .vechicle_form_profile_checkbox_label span {
+    font-size: 12px;
+    font-weight: 400 !important;
+  }
+  
+  .vechicle_form_personal_details_1_card h5 {
+    font-size: 15px;
+  }
+  .vechicle_form_personal_details_1_card {
+    background-color: #faede2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 70px 30px !important;
+    border-radius: 10px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .vechicle_form_personal_details_1_card input {
+    color: #f18121;
+    border: none;
+    font-size: 13px;
+  }
+  .vechicle_form_personal_details_1_card input::placeholder {
+    color: #b9b9b9;
+    font-size: 12px;
+  }
+  .vechicle_form_personal_details_1_card label {
+    font-size: 12px;
+    font-weight: 500;
+  }
+  
+  .vechicle_form_profile_nextbtn {
+    background-color: #f18121 !important;
+    color: #fff !important;
+    padding: 7px 30px !important;
+    margin-left: 2px !important;
+  }
+  .vechicle_form_profile_prevbtn {
+    background-color: #f18121 !important;
+    color: #fff !important;
+    padding: 7px 30px !important;
+    margin: 1;
+    margin-right: 2px !important;
+  }
+  
+  .vechicle_form_total_details .col-3 label {
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 10px;
+    color: #f18121;
+  }
+  
+  .vechicle_form_total_details .col-3 p {
+    font-weight: 500;
+    font-size: 12px;
+  }
+  
+  .vechicle_form_total_details h1 {
+    color: #525252;
+    font-size: 25px;
+    text-decoration: underline;
+  }
+  .vechicle_form_total_details_card {
+    padding: 30px !important;
+  }
+  
+  .vechicle_form_declaration_card {
+    font-size: 13px;
+  }
+  
+  .vechicle_form_Identify_yourself_nextbtn:disabled {
+    /* Your disabled styles here */
+    /* For example, you might want to change the background color and decrease opacity */
+    background-color: lightgray !important;
+    opacity: 0.7;
+    cursor: not-allowed !important; /* Optionally, change cursor to not-allowed */
+  }
+  .vechicle_form_email_otp_modal {
+    border: 1px solid #ddd !important;
+    padding: 7px !important;
+    border-radius: 5px !important;
+  }
+  .vechicle_form_email_otp_modal:focus-visible {
+    /* Your styles here */
+    outline: none !important; /* Example: add a blue outline when focused */
+    /* Add any other styles you want to apply when the element is focused and visible */
+  }
+  .vechicle_form_email_otp_verify_btn {
+    color: #f18121 !important;
+    padding: 3px 20px !important;
+    margin-top: 15px !important;
+    border: 1px solid #f18121 !important;
+    font-size: 12px !important;
+    background-color: #faede1 !important;
+    cursor: pointer !important;
+  }
+  .vechicle_form_email_otp_resend_btn {
+    background: none !important;
+    border: none !important;
+    font-weight: 600;
+    font-size: 12px;
+    color: #0088cc;
+    cursor: pointer !important;
+    padding-left: 4px;
+  }
+  .vechicle_form_email_otp_getotp_btn {
+    background: #fff;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    color: #f18121;
+  }
+  
+  .vechicle_form_Identify_yourself_nextbtn_disabled[disabled] {
+    cursor: not-allowed;
+    background-color: #f0f0f0; /* or any other color you prefer */
+    color: #88888817; /* or any other color you prefer */
+    border: 1px solid #ccc; /* or any other border style you prefer */
+  }
+  
+  
+  
